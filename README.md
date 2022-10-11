@@ -14,6 +14,9 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white
+https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
+https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
