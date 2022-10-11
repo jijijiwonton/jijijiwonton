@@ -3,6 +3,8 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jijijiwonton&show_icons=true&theme=radical" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jijijiwonton&layout=compact)](https://github.com/jijijiwonton/github-readme-stats" />
 
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?rjoydip" frameborder="0"></iframe>
+
 📖	Getting into these fields
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
