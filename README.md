@@ -1,6 +1,7 @@
 # Hi there, I'm Jiwon!✌️
 
 [![Jiwon's github stats](https://github-readme-stats.vercel.app/api?username=jijijiwonton&theme=gruvbox)](https://github.com/jijijiwonton/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jijijiwonton&layout=compact)](https://github.com/jijijiwonton/github-readme-stats")
 
 
 📖	Getting into these fields
