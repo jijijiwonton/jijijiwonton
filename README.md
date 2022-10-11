@@ -35,6 +35,6 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-Currently making a progress for flutter project as a team leader, a scrum master, a UI designer, a front-end developer
-Currently working a React js project using Youtube dataset API to generate a list that displays favorite video
+Currently making a progress for flutter project as a team leader, a scrum master, a UI designer, a front-end developer \n
+Currently working a React js project using Youtube dataset API to generate a list that displays favorite video \n
 Currently working on a personal website
