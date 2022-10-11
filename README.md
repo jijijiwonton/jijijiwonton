@@ -1,9 +1,6 @@
 # Hi there, I'm Jiwon!✌️
-![Jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jijijiwonton&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jijijiwonton&layout=compact)](https://github.com/jijijiwonton/github-readme-stats")
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jijijiwonton&repo=github-readme-stats)](https://github.com/jijijiwonton/github-readme-stats")
 [![stats-card](https://kasroudra-stats-card.herokuapp.com/svg?user=jijijiwonton&theme=dark)](https://github.com/jijijiwonton/github-readme-stats")
-
 
 
 📖	Getting into these fields
