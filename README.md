@@ -1,7 +1,7 @@
 # Hi there, I'm Jiwon!✌️
 [![Jiwon's github stats](https://github-readme-stats.vercel.app/api?username=jijijiwonton)](https://github.com/jijijiwonton/github-readme-stats")
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jijijiwonton&layout=compact)](https://github.com/jijijiwonton/github-readme-stats")
-![Jiwon's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jijijiwonton&theme=blue-green)
+
 📖	Getting into these fields
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
