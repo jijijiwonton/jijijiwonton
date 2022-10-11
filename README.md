@@ -3,7 +3,7 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jijijiwonton&show_icons=true&theme=radical" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jijijiwonton&layout=compact)](https://github.com/jijijiwonton/github-readme-stats")
-
+[![Jiwon's github stats](https://github-readme-stats.vercel.app/api?username=jijijiwonton)](https://github.com/jijijiwonton/github-readme-stats")
 📖	Getting into these fields
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
