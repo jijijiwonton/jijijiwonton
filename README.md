@@ -1,4 +1,7 @@
 # Hi there, I'm Jiwon!✌️
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jijijiwonton&theme=gruvbox)](https://github.com/jijijiwonton/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jijijiwonton&layout=compact&theme=gruvbox)](https://github.com/jijijiwonton/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jijijiwonton&layout=compact)](https://github.com/jijijiwonton/github-readme-stats")
 [![stats-card](https://kasroudra-stats-card.herokuapp.com/svg?user=jijijiwonton&theme=dark)](https://github.com/jijijiwonton/github-readme-stats")
 
