@@ -1,7 +1,7 @@
 :computer: Hi There! I'm Jiwon.
 
-Balanced life between work and personal
-:question: Being curious to learn something new
+Balanced life between work and personal <br />
+:question: Being curious to learn something new <br />
 :mag: Being meticulous to harden a quality
 :hourglass: Being patient to overcome a tricky moment
 :bulb: Being brilliant to come up with an unique idea
