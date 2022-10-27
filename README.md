@@ -7,7 +7,7 @@ Balanced life between work and personal<br />
 :question: Being curious to learn something new<br />
 :mag: Being meticulous to harden a quality<br />
 :hourglass: Being patient to overcome a tricky moment<br />
-:bulb: Being brilliant to come up with an unique idea<br /><br />
+:bulb: Being brilliant to come up with an unique idea<br />
 :alarm_clock: Being punctual to meet a deadline<br />
 :dart: Being ambitious to achive goals<br />
 :sun_with_face: :new_moon: A flexible worker<br />
