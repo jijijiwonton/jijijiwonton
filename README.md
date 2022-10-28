@@ -1,7 +1,5 @@
 :computer: Hi There! I'm Jiwon.
-
 ![Jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jijijiwonton&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jijijiwonton)](https://github.com/jijijiwonton/github-readme-stats)
 
 Balanced life between work and personal<br />
 :question: Being curious to learn something new<br />
