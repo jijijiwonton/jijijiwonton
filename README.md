@@ -1,6 +1,7 @@
 :computer: Hi There! I'm Jiwon.
 
 ![Jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jijijiwonton&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jijijiwonton&layout=compact)](https://github.com/jijijiwonton)
 
 :question: Being curious to learn something new<br />
 :mag: Being meticulous to harden a quality<br />
