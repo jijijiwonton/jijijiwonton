@@ -1,4 +1,4 @@
-# :computer: Hi There! I'm Jiwon.
+# :computer: Hi There! I'm Jiwon.:sun_with_face:
 
 ![Jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jijijiwonton&show_icons=true&theme=radical)
 
